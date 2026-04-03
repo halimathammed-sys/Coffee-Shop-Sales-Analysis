@@ -1,4 +1,22 @@
 # Coffee-Shop-Sales-Analysis- Understanding business drive, customer preferences, and sales performance across three NYC coffee shop locations
+## Table of Contents
+
+- [Background and Scenario](#background-and-scenario)
+- [Business Problem & Objectives](#business-problem--objectives)
+- [Dataset Overview](#dataset-overview)
+- [Key Columns](#key-columns)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Validation](#data-cleaning-and-validation)
+- [Calculated Columns Added](#calculated-columns-added)
+- [Dashboard Design and Visualising](#dashboard-design-and-visualising)
+  - [Wireframe](#wireframe)
+  - [Dashboard Features](#dashboard-features)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+- [Limitations](#limitations)
+- [Author](#author)
+
 ## Background and Scenario
 As a newly appointed franchise owner of a coffee shop chain with three locations in New York City, I collected transactional data from January to June 2023 — the first half of the year — to better understand purchase behaviour and streamline operations across all three stores.
 ## Business Problem & Objectives
@@ -90,9 +108,12 @@ Five new columns were derived from the raw data to enable time-based and financi
 Why two month columns? The Month number enables correct chronological sorting in pivot tables. Without it, Excel sorts months alphabetically (April before January). The Month Name provides the readable label for chart axes. Both are required and serve different purposes.
 
 <img width="1567" height="661" alt="image" src="https://github.com/user-attachments/assets/f3447267-af69-4bd9-9545-1609ea7c4691" />
+
 ## Dashboard Design and Visualising
-### Wireframe
+
+## Wireframe
 Before building anything in Excel, I planned the dashboard layout in excel, mapping out which chart goes where and why. This step ensured the final dashboard tells a logical story rather than being a random collection of visuals.
+
 <img width="1219" height="636" alt="image" src="https://github.com/user-attachments/assets/55619386-53cf-400f-8ef4-6f5ae10f3c21" />
 
 ### Dashboard Features
@@ -115,6 +136,7 @@ The interactive dashboard includes:
   •	Top Performing Products 
   
   •	Location slicer for dynamic filtering
+  
 <img width="1252" height="636" alt="image" src="https://github.com/user-attachments/assets/f6eb06fc-3674-491d-b295-590e5b6e1913" />
 
 ## Key Insights
@@ -179,8 +201,10 @@ In conclusion the analysis reveals strong revenue growth and consistent performa
 
 Including cost data and a full 12-month period would transform this from a performance analysis into a full profitability and forecasting model.
 
+## Author
+Halimat Anuoluwapo Hammed
 
-I am Halimat,your Business, Sales and Finacial Analyst.
+_Business, Sales and Finacial Analyst_
 
   
 
