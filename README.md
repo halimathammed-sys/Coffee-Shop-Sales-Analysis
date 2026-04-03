@@ -139,6 +139,9 @@ The interactive dashboard includes:
   
 <img width="1252" height="636" alt="image" src="https://github.com/user-attachments/assets/f6eb06fc-3674-491d-b295-590e5b6e1913" />
 
+### View Interactive Dashboard here:  
+[Click to open Excel Dashboard](./My Coffee Shop Sales.xlsx)
+
 ## Key Insights
   •	Total revenue reached $698,812 in H1 2023, increasing from $81,678 in January to $166,486 in June, representing approximately 104% growth.
   
